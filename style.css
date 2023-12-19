@@ -1,0 +1,23 @@
+body {
+    background-color: #1f3133;
+    color: #b5eaee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #b5eaee;
+}
+
+img {
+    max-height: 50vw;
+}
