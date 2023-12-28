@@ -3,10 +3,12 @@ body {
     color: #b5eaee;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100%;
+    padding: 16px;
 }
 
 h1 {
     font-size: 2em;
+    text-align: center;
 }
 
 h2 {
@@ -19,5 +21,12 @@ a, a:visited, a:hover, a:active {
 }
 
 img {
-    max-height: 50vw;
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+div.contents {
+    max-width: 450px;
+    margin: auto;
 }
