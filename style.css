@@ -26,7 +26,8 @@ img {
     margin: 0 auto;
 }
 
-div.contents {
+div.contents, 
+div.recipes-container {
     max-width: 450px;
     margin: auto;
 }
